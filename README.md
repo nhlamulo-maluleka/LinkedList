@@ -5,3 +5,4 @@
 - Shifting the head node k times
 - Adding using a stack
 - Popping nodes from the list
+- Reversing a likedlist
